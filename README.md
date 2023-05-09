@@ -21,10 +21,6 @@ pip install -r requirements.txt
 ```
 4) Перейдите в директорию src/, продолжайте работу в ней. Запустите работу парсера командой:
 ```
-python main.py -h
-```
-или
-```
-python main.py --help
+scrapy crawl pep
 ```
 [Автор](https://github.com/QBC1) [шедевра](https://github.com/QBC1/scrapy_parser_pep)
