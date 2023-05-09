@@ -1,0 +1,10 @@
+number,name,status
+1,  Purpose and Guidelines,Active
+101,Doing Python Releases 101,Active
+387,Backwards Compatibility Policy,Active
+581,Using GitHub Issues for CPython,Accepted
+247,API for Cryptographic Hash Functions,Final
+676,  Infrastructure Process,Active
+20,The Zen of Python,Active
+13,Python Language Governance,Active
+609,Python Packaging Authority (PyPA) Governance,Active
